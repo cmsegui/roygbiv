@@ -6,6 +6,10 @@ body {
 h1 {
     color: whitesmoke;
 }
+
+span {
+    color: whitesmoke;
+}
 .square {
     width: 30%;
     background-color: lightblue;
@@ -15,6 +19,6 @@ h1 {
 }
 
 #container {
-    margin: auto;
+    margin: 0 px auto;
     max-width: 600px;
 }
