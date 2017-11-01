@@ -7,6 +7,9 @@ h1 {
     color: whitesmoke;
 }
 
+.selected {
+    background-color: pink;
+}
 .square {
     width: 30%;
     background-color: lightblue;
@@ -25,3 +28,4 @@ h1 {
     height: 30px;
     text-align: center;
 }
+
